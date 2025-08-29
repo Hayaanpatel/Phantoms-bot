@@ -1,0 +1,55 @@
+Privacy Policy for the PHANTOMs Discord Bot
+
+Last updated: 29/08/2025
+
+1. Information We Collect
+
+The Bot may collect and temporarily store the following information:
+
+Discord data: Server IDs, channel IDs, and user IDs for command usage and logging configuration.
+
+Roblox data: Roblox usernames, user IDs, and role/rank information retrieved via the Roblox API.
+
+The Bot does not collect or store personal information beyond what is necessary to provide its features.
+
+2. How Information is Used
+
+To log join, leave, and rank-change events in the designated Discord channel.
+
+To execute the /rankup command and update Roblox ranks.
+
+To remember configuration choices (e.g., which channel is set for logging).
+
+3. Data Storage
+
+Server configuration and member snapshots are stored locally on the bot’s host.
+
+No data is sold, shared, or used for advertising.
+
+Data may be cleared or reset at any time by the Bot owner.
+
+4. Third-Party Services
+
+The Bot uses APIs from:
+
+Discord (to run slash commands and send messages).
+
+Roblox (noblox.js) to retrieve and update group member information.
+
+Both services have their own terms and privacy policies.
+
+5. Security
+
+Your Roblox .ROBLOSECURITY cookie is stored privately in environment variables and never shared.
+
+Access to stored data is restricted to the Bot owner.
+
+6. Your Rights
+
+You may remove the Bot from your server at any time, which stops all data collection and processing.
+
+You may request deletion of stored server data by contacting the Bot owner.
+
+7. Contact
+
+If you have any questions, concerns, or requests regarding these Terms or this Privacy Policy, please contact the Bot owner directly via Discord.
