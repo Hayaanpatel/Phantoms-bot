@@ -1,0 +1,37 @@
+Terms and Conditions (T&C) for the PHANTOMs Discord Bot
+
+Last updated: 29/08/2025
+
+1. Acceptance of Terms
+
+By inviting or using the PHANTOMs Bot (“the Bot”), you agree to these Terms and Conditions. If you do not agree, do not use the Bot.
+
+2. Description of Service
+
+The Bot provides the following functionality:
+
+Monitoring join, leave, and rank changes in the PHANTOMs Roblox community.
+
+Slash commands to update ranks and configure logging channels in Discord.
+
+3. User Responsibilities
+
+You must have the proper Roblox group permissions to manage ranks when using the /rankup command.
+
+You must not use the Bot for malicious, abusive, or unauthorized purposes.
+
+You are responsible for ensuring that your Discord server and Roblox group usage complies with Discord’s Terms of Service
+ and Roblox’s Terms of Use
+.
+
+4. Bot Availability
+
+The Bot is provided “as is.” We do not guarantee uptime, reliability, or error-free operation. Functionality may be updated or removed at any time without notice.
+
+5. Liability
+
+We are not liable for any damages, losses, or misuse that occur from using the Bot, including but not limited to accidental rank changes, logging errors, or unauthorized use of commands.
+
+6. Termination
+
+We reserve the right to revoke access to the Bot from any user or server at any time for abuse, violations, or security concerns.
